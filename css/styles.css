@@ -11822,7 +11822,7 @@ img.masthead-avatar.mb-5 {
   max-width: 100%;
 }
 header.masthead.text-white.text-center {
-  background-image: url(assets/img/senja2.jpeg);
+  background-image: url('assets/img/senja2.jpeg');
 }
 .portfolio .portfolio-item {
   cursor: pointer;
